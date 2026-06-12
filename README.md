@@ -919,9 +919,7 @@ target shape: (64, 64)
 
 ## 28. Screenshot
 
-실행 결과 화면은 `screenshots/` 폴더에 추가할 수 있습니다.
-
-예시:
+다음 사진은 main.py를 실행시킨 결과입니다.
 
 ![execution result](./screenshots/execution_result.png)
 
