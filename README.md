@@ -923,9 +923,7 @@ target shape: (64, 64)
 
 예시:
 
-```md
 ![execution result](./screenshots/execution_result.png)
-```
 
 ---
 
